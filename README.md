@@ -1,4 +1,4 @@
-# 💸'🔎 artos
+# 💸🔎 artos
 
 ## 📝 Overview
 
@@ -90,7 +90,3 @@ If you encounter any issues or have questions, feel free to open an issue on
 ## 🙏 Acknowledgments
 
 Special thanks to,
-- the Go community, for their invaluable resources and inspiration.
-- [MelkeyDev](https://github.com/MelkeyDev), for the inspiration to build this tool.
-- [Cobra CLI](https://github.com/spf13/cobra), for helping to build command-line interface.
-- [Charm_](https://github.com/charmbracelet), for building beautiful and interactive CLI components.
